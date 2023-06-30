@@ -23,8 +23,9 @@
 - 🖥 I've finished FreeCodeCamp's Responsive Web Development Certification and JavaScript Algorithms and Data Structures Certification
 	(https://www.freecodecamp.org/certification/nita_lewska/responsive-web-design)
 	(https://www.freecodecamp.org/certification/nita_lewska/javascript-algorithms-and-data-structures)
-- 📗 I'm also going through Colt Steele's Web Developer Bootcamp Course on Udemy
-- and use many-many more resources to study and develop my skills
+- 🖥 I've finished The Web Developer Bootcamp 2023
+	(https://www.udemy.com/certificate/UC-e29c0004-174c-441b-af78-a0be0ac6d787/)
+- and I'm using many-many more resources to study and develop my skills
 	
 - 📫 How to reach me:
 
