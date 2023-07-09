@@ -91,7 +91,7 @@ main {
   grid-column: 1/5;
 }
 
-.about article {
+.about div {
   width: 70%;
   text-align: justify;
   text-indent: 5%;
@@ -252,25 +252,6 @@ footer {
   text-align: center;
 }
 
-aside button {
-  background-color:#c7c7c79a;
-  position: fixed;
-  width: 4%;
-  height: 4vw;
-  border-radius:50%;
-  border:none;
-  bottom: 2%;
-  right: 2%;
-  cursor: pointer;
-}
-
-aside button img {
-  margin:7px;
-}
-
-aside button:hover {
-  background-color:#f873e2;
-}
 
 @media (max-width: 1023px) {
   h3 {
@@ -352,9 +333,6 @@ aside button:hover {
     margin-bottom: 6%;
   }
 
-  aside button {
-    display: none;
-  }
 
   /* CONTACTS */
 
