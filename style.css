@@ -252,6 +252,29 @@ footer {
   text-align: center;
 }
 
+footer a {
+  text-decoration: none;
+  color: #f4f4f6;
+  transition: color 0.5s;
+}
+
+footer a:hover {
+  color: #f873e2;
+}
+
+footer a img {
+  height: 90px;
+  width: auto;
+  filter: invert(100%) brightness(116%) contrast(108%);
+  transition: transform 0.5s;
+  margin-bottom: 10px;
+}
+
+footer a img:hover {
+  filter: invert(59%) sepia(83%) saturate(487%) hue-rotate(277deg) brightness(97%) contrast(101%);
+  transform: scaleX(1.05);
+}
+
 
 @media (max-width: 1023px) {
   h3 {
