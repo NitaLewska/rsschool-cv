@@ -36,7 +36,7 @@ header h1 {
   font-size: 45px;
 }
 
-header navbar {
+header nav {
   background-color: #07020d;
   color: #f4f4f6;
   list-style: none;
@@ -326,7 +326,7 @@ aside button:hover {
     height: 45vw;
     margin-right: 20px;
   }
-  
+
   .portfolio .carousel-cell img {
     width: 80vw;
     height: 45vw;
@@ -413,7 +413,7 @@ aside button:hover {
     height: 45vw;
     margin-right: 10px;
   }
-  
+
   .portfolio .carousel-cell img {
     width: 80vw;
     height: 45vw;
