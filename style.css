@@ -89,7 +89,6 @@ main {
 
 .about h3 {
   grid-column: 1/5;
-  margin-bottom: 5%;
 }
 
 .about article {
